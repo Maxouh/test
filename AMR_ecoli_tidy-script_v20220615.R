@@ -72,6 +72,9 @@ m$Assembly.barcode <- sub("contigs_included/", "", m$Assembly.barcode)
   write.table(df, "amr_metadata.csv", row.names = FALSE, quote = FALSE)
   
 
+  getwd()
+  
+
 
 
 
