@@ -74,6 +74,7 @@ m$Assembly.barcode <- sub("contigs_included/", "", m$Assembly.barcode)
 
   getwd()
   list.files()
+  getwd()
 
 
 
